@@ -1,10 +1,10 @@
-# 🏥 Healthcare Data Analysis & Patient Insights Dashboard
-This project focuses on analyzing healthcare data to uncover meaningful insights related to patient demographics, disease distribution, and treatment costs. The goal is to support data-driven decision-making in the healthcare industry.
+# 🏥 Healthcare-Data-Analysis-Project
+End-to-end healthcare data analysis project using Python and Tableau to extract patient insights and build interactive dashboards.
 
 ---
 
 📷 Dashboard Preview
-![Dashboard](Dashboard.pdf)
+![Dashboard](Dashboard.png)
 
 ---
 
