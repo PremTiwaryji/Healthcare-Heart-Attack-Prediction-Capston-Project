@@ -11,12 +11,12 @@ The goal is to examine a dataset containing 14 medical attributes and over 300 c
 ---
 
 ## 🧰 Tools & Technologies Used
-* Programming Language: Python
-* Data Analysis: Pandas, NumPy
-* Data Visualization: Matplotlib, Seaborn
-* Machine Learning: Scikit-Learn (Logistic Regression)
-* Business Intelligence: Tableau (for Interactive Dashboarding)
-* Documentation: Jupyter Notebook (.ipynb)
+* **Programming Language:** Python
+* **Data Analysis:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn
+* **Machine Learning:** Scikit-Learn (Logistic Regression)
+* **Business Intelligence:** Tableau (for Interactive Dashboarding)
+* **Documentation:** Jupyter Notebook (.ipynb)
 
 ---
 
@@ -28,3 +28,25 @@ The project utilizes the following files:
 
 ---
 
+## 📊 Key Features Analyzed:
+* **Age & Sex:** Demographic impact on heart health.
+* **Chest Pain Type (cp):** Categorization of heart-related discomfort.
+* **Max Heart Rate (thalach):** Clinical performance during stress.
+* **Cholesterol (chol):** Levels of serum cholestoral in mg/dl.
+* **Target:** 1 (Heart Disease Present) or 0 (Healthy).
+
+---
+
+## 📈 Project Workflow
+1. **Data Inspection:** Checked for missing values, handled duplicates, and performed statistical summaries (Mean, Median, Std Dev).
+
+2. **Exploratory Data Analysis (EDA):**
+
+   * Studied the occurrence of CVD across different age groups.
+   * Analyzed gender composition and its relationship with heart disease.
+   * Identified anomalies in resting blood pressure.
+   * Correlated cholesterol levels with the target outcome.  
+
+3. **Predictive Modeling:** Implemented a **Logistic Regression** model to classify patients as "Healthy" or "At Risk."
+4. **Model Validation:** Evaluated the model using a **Confusion Matrix** and accuracy metrics.
+5. **Dashboarding:** Created a Tableau dashboard to visualize attributes of a diseased vs. a healthy person for non-technical stakeholders.
