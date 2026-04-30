@@ -23,7 +23,9 @@ The goal is to examine a dataset containing 14 medical attributes and over 300 c
 ## 📁 Dataset Description
 The project utilizes the following files:
 1. `data.xlsx`: The primary dataset containing 303 patient records and 14 attributes.
+
 2. `variable description.xlsx`: A metadata file explaining clinical terms like `trestbps` (Resting Blood Pressure), `chol` (Serum Cholesterol), and `thal` (Thalassemia).
+
 3. `Project_Description.rtf`: The official project brief and requirements.
 
 ---
@@ -41,7 +43,6 @@ The project utilizes the following files:
 1. **Data Inspection:** Checked for missing values, handled duplicates, and performed statistical summaries (Mean, Median, Std Dev).
 
 2. **Exploratory Data Analysis (EDA):**
-
    * Studied the occurrence of CVD across different age groups.
    * Analyzed gender composition and its relationship with heart disease.
    * Identified anomalies in resting blood pressure.
@@ -55,14 +56,18 @@ The project utilizes the following files:
 
 ## 🔍 Key Insights & 💡 Learning
 * **Data Cleaning:** Learned how to handle real-world clinical datasets where accuracy is critical.
+
 * **Medical Correlation:** Discovered how variables like `thal` (Thalassemia) and `oldpeak` significantly influence cardiovascular health.
+
 * **Model Implementation:** Gained hands-on experience in transforming raw data into a predictive tool using Scikit-Learn.
+
 * **Business Communication:** Learned how to present complex data findings through simplified Tableau visualizations.
 
 ---
 
 ## 🏢 Impact on the Healthcare Company
 * **Early Detection:** The predictive model can help hospitals flag high-risk patients earlier, potentially saving lives.
+
 * **Resource Optimization:** Identifying key risk factors allows healthcare providers to focus resources on the most relevant diagnostic tests.
 
 * **Data-Driven Decisions:** The Tableau dashboard provides doctors with a visual summary of patient trends, replacing manual data sorting.
