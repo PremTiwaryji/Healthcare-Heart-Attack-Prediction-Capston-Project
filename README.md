@@ -1,4 +1,14 @@
 # 🏥 Healthcare Data Analysis & Patient Insights Dashboard
+## 📌 Project Overview
+
+This project focuses on analyzing healthcare data to uncover meaningful insights related to patient demographics, disease distribution, and treatment costs. The goal is to support data-driven decision-making in the healthcare industry.
+
+📷 Dashboard Preview
+![Dashboard](Dashboard.png)
+
+---
+
+# 🏥 Healthcare Analytics: Predicting Cardiovascular Disease Risk
 
 ## 📌 Project Overview
 Cardiovascular diseases are a leading cause of global mortality. This project focuses on analyzing clinical data to identify significant factors contributing to heart attacks and building a predictive model to assist healthcare providers in early detection.
@@ -71,3 +81,15 @@ The project utilizes the following files:
 * **Resource Optimization:** Identifying key risk factors allows healthcare providers to focus resources on the most relevant diagnostic tests.
 
 * **Data-Driven Decisions:** The Tableau dashboard provides doctors with a visual summary of patient trends, replacing manual data sorting.
+
+---
+
+## 🔗 Author 
+**Name:** Prem Tiwary  
+**Email:** premtiwary7050@gmail.com 
+**LinkedIn:** www.linkedin.com/in/prem-tiwary
+
+---
+
+## License
+This repository is for demonstration and learning purposes. Feel free to reuse the code with attribution.
