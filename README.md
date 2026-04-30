@@ -50,3 +50,19 @@ The project utilizes the following files:
 3. **Predictive Modeling:** Implemented a **Logistic Regression** model to classify patients as "Healthy" or "At Risk."
 4. **Model Validation:** Evaluated the model using a **Confusion Matrix** and accuracy metrics.
 5. **Dashboarding:** Created a Tableau dashboard to visualize attributes of a diseased vs. a healthy person for non-technical stakeholders.
+
+---
+
+## 🔍 Key Insights & 💡 Learning
+* **Data Cleaning:** Learned how to handle real-world clinical datasets where accuracy is critical.
+* **Medical Correlation:** Discovered how variables like `thal` (Thalassemia) and `oldpeak` significantly influence cardiovascular health.
+* **Model Implementation:** Gained hands-on experience in transforming raw data into a predictive tool using Scikit-Learn.
+* **Business Communication:** Learned how to present complex data findings through simplified Tableau visualizations.
+
+---
+
+## 🏢 Impact on the Healthcare Company
+* **Early Detection:** The predictive model can help hospitals flag high-risk patients earlier, potentially saving lives.
+* **Resource Optimization:** Identifying key risk factors allows healthcare providers to focus resources on the most relevant diagnostic tests.
+
+* **Data-Driven Decisions:** The Tableau dashboard provides doctors with a visual summary of patient trends, replacing manual data sorting.
